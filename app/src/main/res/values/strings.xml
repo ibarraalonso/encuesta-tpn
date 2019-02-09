@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EncuestaTPN</string>
+    <string name="m_action_about">About</string>
+    <string name="m_action_settings">Settings</string>
+    <string name="m_action_exit">Exit</string>
+    <string name="input_user">User</string>
+    <string name="input_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_begin_enc">Start a Survey</string>
+    <string name="btn_close">Close</string>
+    <string name="btn_send">Send</string>
+    <string name="txt_encabezado">Satisfaction survey</string>
+    <string name="txt_opinion_importa">Your opinion matters to us</string>
+    <string name="txt_contesta_pregunta">Answer the following questions about the service received.</string>
+    <string name="txt_cuestion1">1. How do you consider the treatment received?</string>
+    <string name="txt_cuestion2">2. Do you recommend us with an acquaintance?</string>
+    <string name="txt_cuestion3">3. Do you want to add additional comments?</string>
+    <string name="txt_gracias">¡Thank you!</string>
+    <string name="txt_opinion">We will take your opinion into account</string>
+    <string name="txt_acercade">¡About!</string>
+    <string name="txt_empresa">Tabacos del Pacifico Norte S.A. de C.V.</string>
+    <string name="txt_desarrollador">Ing. Alonso Ivan Ibarra Bastida</string>
+    <string name="txt_version">Version 1.0</string>
+    <string name="txt_telefono">Cel.: 311-2207356</string>
+    <string name="txt_email">ibarrai1@univmex.com</string>
+    <string name="txt_graciasapp">¡Thanks for using our Application!</string>
+
+</resources>

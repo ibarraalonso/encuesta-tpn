@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EncuestaTPN</string>
+    <string name="m_action_about">Acerca de</string>
+    <string name="m_action_settings">Configuracion</string>
+    <string name="m_action_exit">Salir</string>
+    <string name="input_user">Usuario</string>
+    <string name="input_password">Contraseña</string>
+    <string name="btn_login">Iniciar Sesion</string>
+    <string name="btn_begin_enc">Iniciar Encuesta</string>
+    <string name="btn_close">Cerrar</string>
+    <string name="btn_send">Enviar</string>
+    <string name="txt_encabezado">Encuesta de Satisfaccíon</string>
+    <string name="txt_opinion_importa">Tu opinión nos importa</string>
+    <string name="txt_contesta_pregunta">Contesta las siguientes preguntas sobre el servicio recibido.</string>
+    <string name="txt_yes">SI</string>
+    <string name="txt_no">NO</string>
+    <string name="txt_cuestion1">1. ¿Cómo considera que fue el trato recibido?</string>
+    <string name="txt_cuestion2">2. ¿Nos recomiendaría con un conocido?</string>
+    <string name="txt_cuestion3">3. ¿Desea agregar comentarios adicionales?</string>
+    <string name="txt_gracias">¡Gracias!</string>
+    <string name="txt_opinion">Tomaremos en cuenta tu opinion</string>
+    <string name="txt_acercade">¡Acerca de!</string>
+    <string name="txt_empresa">Tabacos del Pacifico Norte S.A. de C.V.</string>
+    <string name="txt_desarrollador">Ing. Alonso Ivan Ibarra Bastida</string>
+    <string name="txt_version">Version 1.0</string>
+    <string name="txt_telefono">Cel.: 311-2207356</string>
+    <string name="txt_email">ibarrai1@univmex.com</string>
+    <string name="txt_graciasapp">¡Gracias por usar nuestra Aplicacion!</string>
+</resources>

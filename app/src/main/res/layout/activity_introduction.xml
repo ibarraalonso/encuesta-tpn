@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_margin="@dimen/twospace2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".IntroductionActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/space100"
+            android:text="@string/txt_encabezado"
+            android:textColor="@color/black"
+            android:textSize="@dimen/twospace2"/>
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/space150"
+            android:layout_gravity="center"
+            android:padding="@dimen/threespace"
+            android:text="@string/txt_opinion_importa"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="@dimen/threespace" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/space100"
+            android:textAlignment="center"
+            android:text="@string/txt_contesta_pregunta"
+            android:textColor="@color/black"
+            android:textSize="@dimen/twospace"/>/>
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:background="@color/buttonColor"
+            android:onClick="onClick"
+            android:text="@string/btn_begin_enc"
+            android:textColor="@color/white" />
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

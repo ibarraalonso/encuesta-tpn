@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_margin="@dimen/twospace2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AcercadeActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/sevenspace"
+            android:text="@string/txt_acercade"
+            android:textColor="@color/black"
+            android:textSize="@dimen/twospace2"/>
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/sevenspace"
+            android:padding="@dimen/onespace"
+            android:textAlignment="gravity"
+            android:text="@string/txt_empresa"
+            android:textColor="@color/black"
+            android:textSize="@dimen/twospace"/>
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/fivespace"
+            android:padding="@dimen/onespace"
+            android:textAlignment="gravity"
+            android:text="@string/txt_desarrollador"
+            android:textColor="@color/black"
+            android:textSize="@dimen/twospace"/>
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/fivespace"
+            android:padding="@dimen/onespace"
+            android:textAlignment="gravity"
+            android:text="@string/txt_version"
+            android:textColor="@color/black"
+            android:textSize="@dimen/twospace"/>
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/sixspace"
+            android:padding="@dimen/onespace"
+            android:textAlignment="gravity"
+            android:text="@string/txt_telefono"
+            android:textColor="@color/black"
+            android:textSize="@dimen/twospace"/>
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/fivespace"
+            android:padding="@dimen/onespace"
+            android:textAlignment="gravity"
+            android:text="@string/txt_email"
+            android:textColor="@color/black"
+            android:textSize="@dimen/twospace"/>
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/sixspace"
+            android:fontFamily="casual"
+            android:padding="@dimen/twospace"
+            android:text="@string/txt_graciasapp"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="@dimen/onespace" />
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

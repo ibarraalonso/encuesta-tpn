@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="onespace">10dp</dimen>
+    <dimen name="twospace">20dp</dimen>
+    <dimen name="twospace2">25dp</dimen>
+    <dimen name="threespace">30dp</dimen>
+    <dimen name="fourspace">40dp</dimen>
+    <dimen name="fivespace">50dp</dimen>
+    <dimen name="sixspace">60dp</dimen>
+    <dimen name="sevenspace">70dp</dimen>
+    <dimen name="space300">300dp</dimen>
+    <dimen name="space150">150dp</dimen>
+    <dimen name="space100">100dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>
